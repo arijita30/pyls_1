@@ -126,7 +126,7 @@ for each_item in sorted_top_file_data_by_time:
 
 
 
-#----------------------preparing display variable containing the files names in tree structure--------------
+#----------------------preparing display variable containing the file names in tree structure--------------
 
 for each_item in top_contents:
    
